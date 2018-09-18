@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/translation"
+        android:icon="@drawable/ic_translate_blue_24dp"
+        android:title="@string/translate" />
+
+    <item
+        android:id="@+id/history"
+        android:icon="@drawable/ic_history_blue_24dp"
+        android:title="@string/history" />
+
+    <item
+        android:id="@+id/favorite"
+        android:icon="@drawable/ic_bookmark_border_blue_24dp"
+        android:title="@string/bookmark"
+        />
+
+</menu>
